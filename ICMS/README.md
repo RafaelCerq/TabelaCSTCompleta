@@ -1,3 +1,7 @@
+## Tabelas de CST relacionadas a ICMS
+
+### Obs. Antes de colocar em produção consulte seu contador para que o mesmo possa liberar o uso destas informações contidas em cada tabela.
+
 ## Disponibilizado três formatos (xlsx, txt, sql)
 
 ## Neste repositório possui três tabelas, sendo elas:

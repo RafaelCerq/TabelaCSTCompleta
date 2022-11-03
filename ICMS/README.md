@@ -1,6 +1,11 @@
-## Tabelas de CST relacionadas a ICMS
+## Obs. Antes de colocar em produção consulte seu contador, para que o mesmo possa liberar o uso destas informações contidas em cada tabela.
 
-### Obs. Antes de colocar em produção consulte seu contador, para que o mesmo possa liberar o uso destas informações contidas em cada tabela.
+
+
+# Tabelas de CST relacionadas a ICMS
+Código de três dígitos que determina a tributação do produto, onde são classificados, unindo 1 dígito da tabela A com 2 dígitos da tabela B:
+- Tabela A: Origem
+- Tabela B: Código de Tributação ICMS
 
 ## Disponibilizado três formatos (xlsx, txt, sql)
 

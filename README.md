@@ -15,3 +15,7 @@ Código de três dígitos que determina a tributação do produto, onde são cla
 ## CST PIS e COFINS
 Códigos de Situação Tributária relativos às contribuições para o PIS/Pasep e a COFINS. Neste caso irá ser formado pela tabela B de PIS e COFINS
 - Tabela B: Código de Tributação PIS ou COFINS
+
+
+## CSOSN (Código de Situação da Operação do Simples Nacional)
+Empresas optantes pelo Simples Nacional, utilizam os códigos CSOSN, já as empresas optantes pelo Regime Normal utilizam os códigos CST.
